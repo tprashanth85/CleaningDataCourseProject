@@ -1,4 +1,4 @@
-his is the code book for the run_analysis program
+Code book for the run_analysis program
 --------------------------------------------------
 This is the code book for the run_analysis program and contains details of the variables and transformations used to cleanup the data to obtain the result
 
